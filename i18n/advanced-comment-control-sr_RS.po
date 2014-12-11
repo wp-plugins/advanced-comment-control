@@ -9,206 +9,215 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Lew Ayotte <support@leenk.me>\n"
+"PO-Revision-Date: 2014-12-09 10:28+0100\n"
+"Last-Translator: Borisa Djuraskovic <borisad@webhostinghub.com>\n"
 "Language-Team: Lew Ayotte <support@leenk.me>\n"
+"X-Generator: Poedit 1.5.7\n"
 
 #: class.php:288
 msgid "ERROR: Unable to save settings."
-msgstr ""
+msgstr "GREŠKA: Podešavanja nisu sačuvana"
 
 #: class.php:314
 msgid "Advanced Comment Control Settings Updated."
-msgstr ""
+msgstr "Advanced Comment Control podešavanja ažurirana"
 
 #: class.php:322
 msgid "Advanced Comment Control Settings"
-msgstr ""
+msgstr "Advanced Comment Control podešavanja"
 
 #: class.php:334
 msgid "Post Rules"
-msgstr ""
+msgstr "Pravila za post"
 
 #: class.php:361
 msgid "Add New Post Rule"
-msgstr ""
+msgstr "Dodaj novo pravilo za post"
 
 #: class.php:367 class.php:411
 msgid "Save Settings"
-msgstr ""
+msgstr "Sačuvaj podešavanja"
 
 #: class.php:378
 msgid "User Role Options"
-msgstr ""
+msgstr "Opcije za ulogu korisnika"
 
 #: class.php:405
 msgid "Add New Role Rule"
-msgstr ""
+msgstr "Dodaj pravilo za novu ulogu "
 
 #: class.php:432
 msgid "Help Keep This Plugin Alive"
-msgstr ""
+msgstr "Pomozite da ovaj plugin preživi"
 
 #: class.php:451
 msgid "Pigeon Pack"
-msgstr ""
+msgstr "Pigeon Pack"
 
 #: class.php:457
 msgid ""
 "Free and easy email marketing, newsletters, and campaigns; built into your "
 "WordPress dashboard!"
 msgstr ""
+"Besplatan i jednostavan email marketing, pisma i kampanje ugrađene u vašu "
+"WordPress kontrolnu tablu!"
 
 #: class.php:466
 msgid "leenk.me"
-msgstr ""
+msgstr "leenk.me"
 
 #: class.php:472
 msgid ""
 "Publicize your WordPress content to your Twitter, Facebook, & LinkedIn "
 "accounts easily and automatically!"
 msgstr ""
+"Objavite svoj WordPress sadržaj na svojim Twitter, Facebook i LinkedIn "
+"nalozima, lako i automatski!"
 
 #. #-#-#-#-#  advanced-comment-control.pot (Advanced Comment Control 1.0.0)  #-#-#-#-#
 #. Plugin Name of the plugin/theme
 #: class.php:510
 msgid "Advanced Comment Control"
-msgstr ""
+msgstr "Advanced Comment Control"
 
 #: class.php:530
 msgid "is over %s %s(s) old"
-msgstr ""
+msgstr "je star više od %s %s(s)"
 
 #: class.php:532
 msgid "are older than %s %s(s)"
-msgstr ""
+msgstr "je stariji od %s %s(s)"
 
 #: class.php:538
 msgid "has more than %s comment(s)"
-msgstr ""
+msgstr "ima više od %s komentara"
 
 #: class.php:540
 msgid "have more than %s comment(s)"
-msgstr ""
+msgstr "imate više od %s komentara"
 
 #: class.php:554
 msgid "Disable post rules for this %s."
-msgstr ""
+msgstr "Deaktiviraj pravila posta za ovaj %s."
 
 #: class.php:562
 msgid ""
 "Unless disabled, users may not be able to comment on this %s because it %s."
 msgstr ""
+"Osim ako su deaktivirani, korisnici možda ne mogu da komentarišu ovaj %s jer "
+"je %s."
 
 #: class.php:571
 msgid "%s that %s will be disabled."
-msgstr ""
+msgstr "%s  to%s  će biti deaktivirano."
 
 #: class.php:575
 msgid "There are currently no Post Rules restricting %s."
-msgstr ""
+msgstr "Trenutno nema restrikcija %s za pravila posta."
 
 #: class.php:590 class.php:592
 msgid "logged in users"
-msgstr ""
+msgstr "prijavljeni korisnici"
 
 #: class.php:598 class.php:600
 msgid "logged out users"
-msgstr ""
+msgstr "odjavljeni korisnici"
 
 #: class.php:613 class.php:615
 msgid "%s users"
-msgstr ""
+msgstr "%s korisnici"
 
 #: class.php:627
 msgid "Disable user role rules for this %s."
-msgstr ""
+msgstr "Deaktiviraj pravila uloge za ovog %s."
 
 #: class.php:635
 msgid "Unless disabled, %s will not be able to comment on this %s."
-msgstr ""
+msgstr "Osim ako nije deaktiviran, %s neće moći da komentariše ovo %s."
 
 #: class.php:644
 msgid "%s will always be able to comment on this %s."
-msgstr ""
+msgstr "%s će uvek moći da komentariše ovaj %s."
 
 #: class.php:648
 msgid "There are currently no User Role Rules restricting %s"
-msgstr ""
+msgstr "Trenutno nema ograničenja za korisničku ulogu %s."
 
 #: functions.php:20
 msgid "Disable commenting on"
-msgstr ""
+msgstr "Deaktiviraj komentarisanje na"
 
 #: functions.php:45
 msgid "older than"
-msgstr ""
+msgstr "stariji od"
 
 #: functions.php:46
 msgid "with more than"
-msgstr ""
+msgstr "sa više od"
 
 #: functions.php:148
 msgid "day(s)"
-msgstr ""
+msgstr "dana"
 
 #: functions.php:149
 msgid "week(s)"
-msgstr ""
+msgstr "nedelja"
 
 #: functions.php:150
 msgid "month(s)"
-msgstr ""
+msgstr "meseci"
 
 #: functions.php:151
 msgid "year(s)"
-msgstr ""
+msgstr "godina"
 
 #: functions.php:178
 msgid "comment(s)"
-msgstr ""
+msgstr "komentara"
 
 #: functions.php:210
 msgid "Logged in"
-msgstr ""
+msgstr "Prijavljeni"
 
 #: functions.php:211
 msgid "Logged out"
-msgstr ""
+msgstr "Odjavljeni"
 
 #: functions.php:217
 msgid "users can"
-msgstr ""
+msgstr "korisnici mogu"
 
 #: functions.php:221
 msgid "always"
-msgstr ""
+msgstr "uvek"
 
 #: functions.php:222
 msgid "never"
-msgstr ""
+msgstr "nikad"
 
 #: functions.php:234
 msgid "comment on"
-msgstr ""
+msgstr "komentar na"
 
 #. #-#-#-#-#  advanced-comment-control.pot (Advanced Comment Control 1.0.0)  #-#-#-#-#
 #. Plugin URI of the plugin/theme
 #. #-#-#-#-#  advanced-comment-control.pot (Advanced Comment Control 1.0.0)  #-#-#-#-#
 #. Author URI of the plugin/theme
 msgid "http://lewayotte.com/"
-msgstr ""
+msgstr "http://lewayotte.com/"
 
 #. Description of the plugin/theme
 msgid ""
 "This plugin allows you to manage who can comment and when they can comment "
 "on your content."
 msgstr ""
+"Ovaj komentar omogućava vam da određujete ko može da komentariše i kad može "
+"da komentariše vaš sadržaj."
 
 #. Author of the plugin/theme
 msgid "layotte"
-msgstr ""
+msgstr "layotte"
 
 #. Tags of the plugin/theme
 msgid "advanced, comments, disable, spam, security"
-msgstr ""
+msgstr "napredni, komentari, deaktiviraj, spam, bezbednost"
